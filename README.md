@@ -2,4 +2,4 @@
 
 ### My site is deployed in this URL:
 
-[ MinaTour ] (https://mina-html-css-tea-station.netlify.app )
+[ MinaTour ] (https://mina-html-css-flexbox-project.netlify.app )
